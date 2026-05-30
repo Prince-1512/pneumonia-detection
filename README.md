@@ -202,3 +202,9 @@ This runs in 2 phases:
 **Prince Ranjan**  
 MCA Final Year | School of Management Sciences, Varanasi  
 [GitHub](https://github.com/Prince-1512) · [LinkedIn](https://linkedin.com/in/prince-ranjan-950840247)
+
+---
+
+## Web App Demo
+
+![App Demo](results/app_demo.png.jpeg)
